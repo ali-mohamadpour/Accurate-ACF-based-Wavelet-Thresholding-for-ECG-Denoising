@@ -126,7 +126,7 @@ Open Google Colab and run the following cells:
 
 ```python
 # Cell 1: Clone the repository
-!git clone https://github.com/yourusername/Accurate_ACF_Wavelett.git
+!git clone https://github.com/ali-mohamadpour/Accurate-ACF-based-Wavelet-Thresholding-for-ECG-Denoising.git
 %cd Accurate_ACF_Wavelett
 
 # Cell 2: Install dependencies
@@ -166,7 +166,7 @@ Open Google Colab and run the following cells:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Accurate_ACF_Wavelett.git
+git clone https://github.com/ali-mohamadpour/Accurate-ACF-based-Wavelet-Thresholding-for-ECG-Denoising.git
 cd Accurate_ACF_Wavelett
 
 # Install dependencies
@@ -291,12 +291,6 @@ outputs/
 
 1. Yu, K., et al. (2024). "Accurate wavelet thresholding method for ECG signals." *Computers in Biology and Medicine*, 169, 107835.
 
-2. Moody, G.B., & Mark, R.G. (2001). "The impact of the MIT-BIH Arrhythmia Database." *IEEE Engineering in Medicine and Biology Magazine*, 20(3), 45-50.
-
-3. Donoho, D.L., & Johnstone, I.M. (1994). "Ideal spatial adaptation by wavelet shrinkage." *Biometrika*, 81(3), 425-455.
-
-4. Chang, S.G., Yu, B., & Vetterli, M. (2000). "Adaptive wavelet thresholding for image denoising and compression." *IEEE Transactions on Image Processing*, 9(9), 1532-1546.
-
 ---
 
 ## License
@@ -309,7 +303,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Your Name** - Implementation and documentation
 
-Project Link: [https://github.com/yourusername/Accurate_ACF_Wavelett](https://github.com/yourusername/Accurate_ACF_Wavelett)
+Project Link: [https://github.com/ali-mohamadpour/Accurate-ACF-based-Wavelet-Thresholding-for-ECG-Denoising](https://github.com/ali-mohamadpour/Accurate-ACF-based-Wavelet-Thresholding-for-ECG-Denoising)
 
 ---
 
@@ -324,9 +318,7 @@ Project Link: [https://github.com/yourusername/Accurate_ACF_Wavelett](https://gi
 > **Note:** This implementation is for educational and research purposes. Results may vary slightly from the original paper due to differences in random seeds, signal segmentation, and numerical precision.
 ```
 
----
 
-## فایل ۲: `requirements.txt`
 
 ```
 numpy>=1.21.0
@@ -335,9 +327,6 @@ wfdb>=3.4.0
 PyWavelets>=1.3.0
 ```
 
----
-
-## فایل ۳: `LICENSE`
 
 ```
 MIT License
@@ -363,9 +352,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
----
-
-## فایل ۴: `Colab_Setup.ipynb` (برای گوگل کلب)
 
 ```json
 {
@@ -388,7 +374,7 @@ SOFTWARE.
    "outputs": [],
    "source": [
     "# Cell 1: Clone the repository\n",
-    "!git clone https://github.com/yourusername/Accurate_ACF_Wavelett.git\n",
+    "!git clone https://github.com/ali-mohamadpour/Accurate-ACF-based-Wavelet-Thresholding-for-ECG-Denoising.git\n",
     "%cd Accurate_ACF_Wavelett"
    ]
   },
@@ -534,7 +520,5 @@ SOFTWARE.
 ```
 
 ```
-https://colab.research.google.com/github/yourusername/Accurate_ACF_Wavelett/blob/main/Colab_Setup.ipynb
+[https://colab.research.google.com/github/ali-mohamadpour/Accurate_ACF_Wavelett/blob/main/Colab_Setup.ipynb](https://colab.research.google.com/drive/1xeoEbpjjXB6oHIl7LN3d46EcSWTI4iBU?usp=sharing)
 ```
-
-همه فایل‌ها آماده کپی در Notepad هستند. موفق باشی! 🚀
