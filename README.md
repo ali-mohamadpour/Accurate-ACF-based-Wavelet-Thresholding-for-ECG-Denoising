@@ -90,7 +90,7 @@ Accurate_ACF_Wavelett/
 │   ├── ptb/            # PTB Diagnostic ECG Database
 │   └── nstdb/          # MIT-BIH Noise Stress Test Database
 ├── src/
-│   └── main.py         # Complete implementation (~2400 lines)
+│   └── main.py         # Complete implementation (~1900 lines)
 ├── outputs/
 │   ├── figures/        # Generated plots and comparisons
 │   ├── results/        # Numerical results and tables
