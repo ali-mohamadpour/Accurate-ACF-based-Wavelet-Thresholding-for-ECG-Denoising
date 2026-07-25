@@ -276,7 +276,7 @@ Click the button below to open and run the notebook in Google Colab.
 
 ## Author
 
-**my name** - [Ali Mohammadpour](http://ali-mohammadpour.ir)
+**MY NAME** - [Ali Mohammadpour](http://ali-mohammadpour.ir)
 
 
 Project Link: [https://github.com/ali-mohamadpour/Accurate-ACF-based-Wavelet-Thresholding-for-ECG-Denoising](https://github.com/ali-mohamadpour/Accurate-ACF-based-Wavelet-Thresholding-for-ECG-Denoising)
