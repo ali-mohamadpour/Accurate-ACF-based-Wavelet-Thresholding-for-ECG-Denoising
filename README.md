@@ -234,7 +234,16 @@ outputs/
 4. **Computational Overhead:** Iterative threshold search is slower than single-pass methods.
 
 ---
+## Sample Output
 
+
+![Sample Result](outputs/figures/phase1_mitdb_109_first_10_seconds.png)
+![Sample Result](outputs/figures/phase2_clean_vs_awgn_5db_record109.png)
+![Sample Result](outputs/figures/phase3_dwt_universal_soft_record109_awgn5db.png)
+![Sample Result](outputs/figures/phase4_classical_methods_record109_awgn5db.png)
+![Sample Result](outputs/figures/phase5_acf_comparison_record109_awgn5db.png)
+![Sample Result](outputs/figures/phase5_acf_debug_record109_awgn5db.png)
+---
 ## Future Work
 
 1. **Preprocessing Integration:** Add high-pass filtering to remove baseline wander before ACF calculation.
@@ -259,7 +268,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**Your Name** - [Ali Mohammadpour](http://ali-mohammadpour.ir)
+**my name** - [Ali Mohammadpour](http://ali-mohammadpour.ir)
 
 
 Project Link: [https://github.com/ali-mohamadpour/Accurate-ACF-based-Wavelet-Thresholding-for-ECG-Denoising](https://github.com/ali-mohamadpour/Accurate-ACF-based-Wavelet-Thresholding-for-ECG-Denoising)
