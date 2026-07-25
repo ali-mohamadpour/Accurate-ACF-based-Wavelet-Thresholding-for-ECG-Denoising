@@ -1,0 +1,2 @@
+# Accurate-ACF-based-Wavelet-Thresholding-for-ECG-Denoising
+Python implementation of Yu et al. (2024) paper. Adaptive wavelet denoising using Autocorrelation Function instead of noise estimation. Outperforms classical methods on muscle artifacts (3x better). Includes DWT, soft thresholding, fast threshold search, and comparison with Universal, Minimax, Heursure, Bayes. Tested on MIT-BIH, CUDB, PTB, NSTDB.
