@@ -264,22 +264,6 @@ outputs/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-## Author
-
-**my name** - [Ali Mohammadpour](http://ali-mohammadpour.ir)
-
-
-Project Link: [https://github.com/ali-mohamadpour/Accurate-ACF-based-Wavelet-Thresholding-for-ECG-Denoising](https://github.com/ali-mohamadpour/Accurate-ACF-based-Wavelet-Thresholding-for-ECG-Denoising)
-
----
-
-## Acknowledgments
-
-- The authors of the original paper for their innovative work
-- PhysioNet for providing open-access ECG databases
-- The open-source community for libraries (NumPy, PyWavelets, WFDB, Matplotlib)
 
 ---
 ## Google Colab
@@ -288,3 +272,11 @@ Click the button below to open and run the notebook in Google Colab.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xeoEbpjjXB6oHIl7LN3d46EcSWTI4iBU?usp=sharing
 )
+---
+
+## Author
+
+**my name** - [Ali Mohammadpour](http://ali-mohammadpour.ir)
+
+
+Project Link: [https://github.com/ali-mohamadpour/Accurate-ACF-based-Wavelet-Thresholding-for-ECG-Denoising](https://github.com/ali-mohamadpour/Accurate-ACF-based-Wavelet-Thresholding-for-ECG-Denoising)
