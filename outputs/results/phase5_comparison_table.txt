@@ -1,0 +1,15 @@
+Comparison of Thresholding Methods
+==============================================================================
+Method              Threshold              Output SNR (dB)          RMSE
+==============================================================================
+Universal           fixed                          12.5090      0.121920
+Minimax             fixed                          13.3816      0.110266
+Heursure            fixed                          12.5762      0.120980
+Bayes               per-subband                    14.7392      0.094311
+ACF (Proposed)      1.744837                       12.1369      0.127256
+==============================================================================
+
+ACF Method Details:
+  Optimal threshold : 1.744837
+  Optimal NZOPP     : 0.124815
+  Iterations        : 20
