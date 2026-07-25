@@ -1,5 +1,5 @@
 
-```markdown
+
 # Accurate ACF-based Wavelet Thresholding for ECG Denoising
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
